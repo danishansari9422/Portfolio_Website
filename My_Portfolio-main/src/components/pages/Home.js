@@ -40,7 +40,7 @@ const Home = () => {
               <button className={`text-black group border-2 px-6 py-3 my-2 mr-4 flex items-center rounded-full hover:bg-gradient-to-r hover:border-gradient-to-r transition-colors duration-500 transform-gpu hover:scale-105 ${isDarkMode ? 'border-white text-yellow-300' : 'border-black text-black'}`}>
                 <a
                   id
-                  href='https://drive.google.com/file/d/1GJFpmwRCmMyZ3K0B0Q5sOncEloBsT5qe/view?usp=sharing'
+                  href='https://drive.google.com/file/d/1MIRsUQIeMPxW0vJpw2_q5-wHvjSHxbMt/view?usp=sharing'
                 >
                  
                   Check My Resume
@@ -49,7 +49,7 @@ const Home = () => {
               </button>
 
               <button className={`text-black border-2 px-6 py-3 my-2 flex items-center rounded-full hover:bg-gradient-to-r hover:border-gradient-to-r transition-colors duration-500 transform-gpu hover:scale-105 ${isDarkMode ? 'border-white text-yellow-300' : 'border-black text-black'}`}>
-                <a id href='https://www.linkedin.com/in/mostafa-hassan-5a3450284/'>
+                <a id href='https://www.linkedin.com/in/danish-ansari-05241b201'>
                
                   LinkedIn
                   <FaLinkedin className="inline-block ml-2" />
