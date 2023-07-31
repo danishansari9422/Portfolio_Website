@@ -28,7 +28,7 @@ const Home = () => {
           <div className='md:w-1/2.5'>
             <br/>
             <br/>
-            <h1 className={`text-3xl sm:text-6xl font-bold text-${colorScheme.accentColor} ${isDarkMode ? 'text-white' : 'text-black'}`}>
+            <h1 className={`text-3xl sm:text-6xl font-medium font-bold text-${colorScheme.accentColor} ${isDarkMode ? 'text-white' : 'text-black'}`}>
               Hello everyone!
               <br/>
             
